@@ -1,0 +1,15 @@
+1)java install
+2)install eclipse
+-------------------
+
+
+1)create programme to hello world using notepad.. and cmd
+
+2)go through scanner class  and create user biodata
+
+employee bio data --> using scanner 
+
+1)if else...
+
+salary > 15000 employtee name (prahaer ) is eleigble of pf
+saalry > 50000 prahr is eleigible for tax
