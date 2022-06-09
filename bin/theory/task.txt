@@ -13,3 +13,6 @@ employee bio data --> using scanner
 
 salary > 15000 employtee name (prahaer ) is eleigble of pf
 saalry > 50000 prahr is eleigible for tax
+--------------------------------------------------------------------------------
+
+local variables, instance varibale,method,static method non static method,object
