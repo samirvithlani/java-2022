@@ -1,0 +1,70 @@
+inheritance
+encapsulation
+polymorephisam
+abstraction
+
+
+class,object,inheritance,
+constructor,data hiding,abstraction
+polymorephisam,overloadin,overriding
+
+
+
+
+Inheritance:
+child class can use property of parent class it's called inheritance...
+parent class can not use prop of child class
+
+
+use:
+resualblity:
+
+5 types of inheritance:
+1)single
+		a ->b
+2)multilelve
+	a -->b -->c 
+3)multipule
+				a
+			b        c	
+
+4)hyricical
+		             a
+		      b              c       
+         p        q     x            y
+      m    n    al  bt    
+5)hybride
+					a --> 10 --> 5 ->
+					
+					
+syntax:					
+to implement inheritance in java use extends keyword
+--------------------------------------------------------------------------
+
+constructor:
+def:constructor is a special function which has same name as class name
+const does not have return type ..
+const can have params
+
+2 types of constructor:
+1)default constructor
+2)param constructor
+
+use: to initilize instance variable of class, and initilize object of class...
+constructor will load class in memory with help of class loader...
+
+if there is no explicit constructor in java file , compiler(JVM) will create default construtor implicitly
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
