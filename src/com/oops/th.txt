@@ -57,11 +57,27 @@ if there is no explicit constructor in java file , compiler(JVM) will create def
 
 
 
+poly
+compile time
+	method overloading
+		def:function with same name but different arguement in same class called method overloading...
+		search(int price)
+		search(String name)
+		search(int price,String name)
+		search(String name,boolean avi)
+		
+runtime poly
+	method overriding
+	
+	same function created in child class with same signature of parent class..
+	access name param return type...
+	
 
 
 
+run time polymorephisam
 
-
+parent class referene and child class object....it is called runtime polymorephisam
 
 
 

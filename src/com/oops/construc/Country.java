@@ -3,7 +3,7 @@ package com.oops.construc;
 
 public class Country {
 
-	String cName;
+	static String cName;
 
 	public Country(int code) {
 
@@ -20,6 +20,7 @@ public class Country {
 		Country c1; // reference
 		// new key word
 		// Country()
+		System.out.println(cName);
 		Country c = new Country(91);
 		// c.demo();
 
