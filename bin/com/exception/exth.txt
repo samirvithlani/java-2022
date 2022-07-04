@@ -1,0 +1,40 @@
+//ERROR 
+	syntex --> compile --> resolve
+	eg int a error
+	for(;)
+	else()
+EXCEPTOIN
+	runtime as well as compiletime
+	ram --?10 100,host -->server -->
+	
+	int x; --> string -->
+	exceptoin handling..
+----------------------------------------------------------
+
+			All Exceptions are class....
+			
+					Throwable (C)
+			 Exception			Error
+			n child class       no child
+----------------------------------------------------------
+
+TYPE OF EXCEPTON
+2 type exeption are there
+1)Checked exception (compile time ex)
+2)unchecked exceptoin (runtime exceptoion)
+
+----------------------------------------------------------
+
+			Exception can be handle (Error must resolve)
+			
+Ways to Handle an exception
+1)try catch block
+2)throws key word			
+
+
+
+
+					
+					
+			
+				

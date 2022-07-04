@@ -12,4 +12,24 @@ i
 ==================================================================
 4)find largest word....and smallest word...
 
+-----------------------
+String buufer:
+
+para : palindrome name  ->
+sepereate array
+=-----------------
+remove similar words
+-------------------
+word ->
+para is exsit ->
+index --> position
+--------------------------------
+
+
+
+
+Null pointer exception
+Array index out oF bound
+String index out of bound
+
 

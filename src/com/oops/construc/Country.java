@@ -4,7 +4,7 @@ package com.oops.construc;
 public class Country {
 
 	static String cName;
-
+	
 	public Country(int code) {
 
 		cName = "INDIA";
